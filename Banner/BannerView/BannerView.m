@@ -14,7 +14,7 @@
 @synthesize timeInterval = _timeInterval;
 @synthesize autoScroll = _autoScroll;
 @synthesize shouldLoop = _shouldLoop;
-@synthesize pageControlAliopen ment = _pageControlAliment;
+@synthesize pageControlAliment = _pageControlAliment;
 @synthesize shouldHiddenPageControl = _shouldHiddenPageControl;
 
 - (instancetype)init {
